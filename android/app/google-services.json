@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417085814826",
+    "project_id": "flash-chat-8a320",
+    "storage_bucket": "flash-chat-8a320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417085814826:android:23d0cb3b73b8a392eb6b53",
+        "android_client_info": {
+          "package_name": "com.nosuke.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417085814826-mq7jp1gq8hdm8mi9ms6b7iq5rtt4auef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1aQ1kzOlyxR3mXABgl9C2jCnzF_ywoXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417085814826-mq7jp1gq8hdm8mi9ms6b7iq5rtt4auef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
